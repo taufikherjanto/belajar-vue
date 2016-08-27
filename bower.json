@@ -1,0 +1,21 @@
+{
+  "name": "belajar-vue",
+  "authors": [
+    "Taufik Herjanto <taufik.herjanto@live.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "http://taufikherjanto.github.io/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "^1.0.26",
+    "bootstrap": "^3.3.7"
+  }
+}
